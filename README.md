@@ -11,7 +11,7 @@ The following **required** functionalities are completed and implemented:
 - [x] Toggle between done and not done
 - [x] Strikethrough
 - [x] Add a checkbox filter to show only done or undone
-- [ ] Persist locally
+- [x] Persist locally
 
 ## License
 
