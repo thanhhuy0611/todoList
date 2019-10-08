@@ -2,7 +2,7 @@
 
 Created with love by: Huy Tran
 
-### View online at [here](https://vibrant-babbage-ccb239.netlify.com/)
+### View online at [here](https://blissful-goldberg-379c00.netlify.com/)
 
 
 The following **required** functionalities are completed and implemented:
